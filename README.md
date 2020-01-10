@@ -1,0 +1,1 @@
+# Copy-Text-To-Clipboard-JavaScript
